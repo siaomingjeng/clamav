@@ -6,7 +6,7 @@
     "ScmType": "VSTSRM",
     "WEBSITE_AUTH_ENABLED": "False",
     "REMOTEDEBUGGINGVERSION": "11.0.611103.400",
-    "AntiVirusServer": "52.189.236.53",
+    "AntiVirusServer": "10.0.0.4",
     "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=saaueuatvirusscan;AccountKey=SRPM7G53Er2Agrg71MYe0YyggA/Va4fmPvWR0DChOffDIxQJh8FhnQnUISFOwfl9eqxEAf2NvwVtsuvpFFyviw==;EndpointSuffix=core.windows.net",
     "AntiVirusServerPort": "3310",
     "WEBSITE_AUTH_AUTO_AAD": "False",
